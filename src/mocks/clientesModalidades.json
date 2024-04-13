@@ -1,0 +1,2004 @@
+[
+	{
+	"ContratoId" : 659,
+	"Grupo" : "Grupo Vtex Brasil",
+	"ModoContratoId" : 5,
+	"ModoContrato" : "Software como Serviços Cloud",
+	"ModoContratoSigla" : "CLOUD"
+},
+{
+	"ContratoId" : 742,
+	"Grupo" : "Grupo Certising (SAAS)",
+	"ModoContratoId" : 4,
+	"ModoContrato" : "Software como Serviços Saas",
+	"ModoContratoSigla" : "SAAS"
+},
+{
+	"ContratoId" : 590,
+	"Grupo" : "Grupo Safety",
+	"ModoContratoId" : 4,
+	"ModoContrato" : "Software como Serviços Saas",
+	"ModoContratoSigla" : "SAAS"
+},
+{
+	"ContratoId" : 597,
+	"Grupo" : "Grupo Mastersense",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 415,
+	"Grupo" : "Grupo Montcalm",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 81,
+	"Grupo" : "Grupo Marisa",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 172,
+	"Grupo" : "Grupo Michael Page",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 189,
+	"Grupo" : "Grupo Fast Engenharia",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 144,
+	"Grupo" : "Grupo Canon Medical (Toshiba)",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 553,
+	"Grupo" : "Grupo Teruya",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 361,
+	"Grupo" : "Grupo Urbplan",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 406,
+	"Grupo" : "Grupo Jockey Club",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 478,
+	"Grupo" : "Grupo SKF",
+	"ModoContratoId" : 5,
+	"ModoContrato" : "Software como Serviços Cloud",
+	"ModoContratoSigla" : "CLOUD"
+},
+{
+	"ContratoId" : 58,
+	"Grupo" : "Grupo FEI",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 417,
+	"Grupo" : "Grupo Tetra Pak",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 526,
+	"Grupo" : "Grupo Grant Thornton Internaci",
+	"ModoContratoId" : 4,
+	"ModoContrato" : "Software como Serviços Saas",
+	"ModoContratoSigla" : "SAAS"
+},
+{
+	"ContratoId" : 387,
+	"Grupo" : "Grupo Unimar",
+	"ModoContratoId" : 4,
+	"ModoContrato" : "Software como Serviços Saas",
+	"ModoContratoSigla" : "SAAS"
+},
+{
+	"ContratoId" : 647,
+	"Grupo" : "Grupo STT",
+	"ModoContratoId" : 4,
+	"ModoContrato" : "Software como Serviços Saas",
+	"ModoContratoSigla" : "SAAS"
+},
+{
+	"ContratoId" : 646,
+	"Grupo" : "Grupo Owens",
+	"ModoContratoId" : 3,
+	"ModoContrato" : "Terceirização com mão de Obra",
+	"ModoContratoSigla" : "BPO"
+},
+{
+	"ContratoId" : 300,
+	"Grupo" : "Grupo Gráfica Rami",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 555,
+	"Grupo" : "Grupo Bernhoeft",
+	"ModoContratoId" : 5,
+	"ModoContrato" : "Software como Serviços Cloud",
+	"ModoContratoSigla" : "CLOUD"
+},
+{
+	"ContratoId" : 123,
+	"Grupo" : "Grupo Sansuy",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 589,
+	"Grupo" : "Grupo Herrera",
+	"ModoContratoId" : 4,
+	"ModoContrato" : "Software como Serviços Saas",
+	"ModoContratoSigla" : "SAAS"
+},
+{
+	"ContratoId" : 514,
+	"Grupo" : "Grupo Rotam",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 723,
+	"Grupo" : "Grupo GSH",
+	"ModoContratoId" : 5,
+	"ModoContrato" : "Software como Serviços Cloud",
+	"ModoContratoSigla" : "CLOUD"
+},
+{
+	"ContratoId" : 298,
+	"Grupo" : "Grupo CPQD",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 654,
+	"Grupo" : "Grupo LPS",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 511,
+	"Grupo" : "Grupo Rede Dor São Luiz S.A",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 604,
+	"Grupo" : "Grupo Tecnisa (BSP)",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 657,
+	"Grupo" : "Grupo SantaConstancia (BSP)",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 75,
+	"Grupo" : "Grupo Italbronze",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 402,
+	"Grupo" : "Grupo Western",
+	"ModoContratoId" : 3,
+	"ModoContrato" : "Terceirização com mão de Obra",
+	"ModoContratoSigla" : "BPO"
+},
+{
+	"ContratoId" : 76,
+	"Grupo" : "Grupo Kitchens",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 96,
+	"Grupo" : "Grupo Oetker",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 271,
+	"Grupo" : "Grupo Manserv",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 615,
+	"Grupo" : "Grupo 99",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 316,
+	"Grupo" : "Grupo Stefanini",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 364,
+	"Grupo" : "Grupo Vopak",
+	"ModoContratoId" : 3,
+	"ModoContrato" : "Terceirização com mão de Obra",
+	"ModoContratoSigla" : "BPO"
+},
+{
+	"ContratoId" : 626,
+	"Grupo" : "Grupo Combustol (SAAS)",
+	"ModoContratoId" : 4,
+	"ModoContrato" : "Software como Serviços Saas",
+	"ModoContratoSigla" : "SAAS"
+},
+{
+	"ContratoId" : 5,
+	"Grupo" : "Grupo Aduaneiras",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 230,
+	"Grupo" : "Grupo Beneficência Portuguesa",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 512,
+	"Grupo" : "Grupo Hosp. Assunção (Rede Dor",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 425,
+	"Grupo" : "Grupo CI&T Software",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 438,
+	"Grupo" : "Grupo Besni",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 472,
+	"Grupo" : "Grupo Rommanel",
+	"ModoContratoId" : 4,
+	"ModoContrato" : "Software como Serviços Saas",
+	"ModoContratoSigla" : "SAAS"
+},
+{
+	"ContratoId" : 365,
+	"Grupo" : "Grupo M2",
+	"ModoContratoId" : 4,
+	"ModoContrato" : "Software como Serviços Saas",
+	"ModoContratoSigla" : "SAAS"
+},
+{
+	"ContratoId" : 59,
+	"Grupo" : "Grupo Fundação Cásper Líbero",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 495,
+	"Grupo" : "Grupo Orange",
+	"ModoContratoId" : 3,
+	"ModoContrato" : "Terceirização com mão de Obra",
+	"ModoContratoSigla" : "BPO"
+},
+{
+	"ContratoId" : 309,
+	"Grupo" : "Grupo Globalpack",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 38,
+	"Grupo" : "Grupo Construcap",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 725,
+	"Grupo" : "Grupo Banco Mercedes-Benz",
+	"ModoContratoId" : 3,
+	"ModoContrato" : "Terceirização com mão de Obra",
+	"ModoContratoSigla" : "BPO"
+},
+{
+	"ContratoId" : 418,
+	"Grupo" : "Grupo Santa Helena",
+	"ModoContratoId" : 4,
+	"ModoContrato" : "Software como Serviços Saas",
+	"ModoContratoSigla" : "SAAS"
+},
+{
+	"ContratoId" : 430,
+	"Grupo" : "Grupo Sodexo",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 692,
+	"Grupo" : "Grupo Drogaria SP",
+	"ModoContratoId" : 4,
+	"ModoContrato" : "Software como Serviços Saas",
+	"ModoContratoSigla" : "SAAS"
+},
+{
+	"ContratoId" : 674,
+	"Grupo" : "Grupo Kumon (Cloud",
+	"ModoContratoId" : 5,
+	"ModoContrato" : "Software como Serviços Cloud",
+	"ModoContratoSigla" : "CLOUD"
+},
+{
+	"ContratoId" : 473,
+	"Grupo" : "Grupo Inovathi",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 603,
+	"Grupo" : "Grupo GAT Logística",
+	"ModoContratoId" : 4,
+	"ModoContrato" : "Software como Serviços Saas",
+	"ModoContratoSigla" : "SAAS"
+},
+{
+	"ContratoId" : 575,
+	"Grupo" : "Grupo Kimberly",
+	"ModoContratoId" : 3,
+	"ModoContrato" : "Terceirização com mão de Obra",
+	"ModoContratoSigla" : "BPO"
+},
+{
+	"ContratoId" : 623,
+	"Grupo" : "Grupo Dicon",
+	"ModoContratoId" : 5,
+	"ModoContrato" : "Software como Serviços Cloud",
+	"ModoContratoSigla" : "CLOUD"
+},
+{
+	"ContratoId" : 690,
+	"Grupo" : "Grupo Pipefy",
+	"ModoContratoId" : 4,
+	"ModoContrato" : "Software como Serviços Saas",
+	"ModoContratoSigla" : "SAAS"
+},
+{
+	"ContratoId" : 116,
+	"Grupo" : "Grupo Rohr",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 593,
+	"Grupo" : "Grupo Alper Corretora",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 357,
+	"Grupo" : "Grupo Tomé",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 617,
+	"Grupo" : "Grupo Goiasa",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 18,
+	"Grupo" : "Grupo Voestalpine (Boehler)",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 416,
+	"Grupo" : "Grupo PUC \/ RS",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 245,
+	"Grupo" : "Grupo Cotia",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 329,
+	"Grupo" : "Grupo Unimed Central Nacional",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 524,
+	"Grupo" : "Grupo Philips",
+	"ModoContratoId" : 4,
+	"ModoContrato" : "Software como Serviços Saas",
+	"ModoContratoSigla" : "SAAS"
+},
+{
+	"ContratoId" : 384,
+	"Grupo" : "Grupo Celistics",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 705,
+	"Grupo" : "Grupo Kantar Ibope",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 469,
+	"Grupo" : "Grupo NTT (Cliente)",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 247,
+	"Grupo" : "Grupo Hospital São Camilo",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 52,
+	"Grupo" : "Grupo Economus",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 421,
+	"Grupo" : "Grupo BM& A Advogados",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 486,
+	"Grupo" : "Grupo MC1",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 622,
+	"Grupo" : "Grupo Sony (BSP)",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 717,
+	"Grupo" : "Grupo Ambipar",
+	"ModoContratoId" : 5,
+	"ModoContrato" : "Software como Serviços Cloud",
+	"ModoContratoSigla" : "CLOUD"
+},
+{
+	"ContratoId" : 698,
+	"Grupo" : "Grupo VE8B (OMB)",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 716,
+	"Grupo" : "Grupo FGV (SAAS)",
+	"ModoContratoId" : 4,
+	"ModoContrato" : "Software como Serviços Saas",
+	"ModoContratoSigla" : "SAAS"
+},
+{
+	"ContratoId" : 328,
+	"Grupo" : "Grupo Unimed Jundiaí",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 124,
+	"Grupo" : "Grupo Santa Casa",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 436,
+	"Grupo" : "Grupo Aché",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 293,
+	"Grupo" : "Grupo Hospital Bandeirantes",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 411,
+	"Grupo" : "Grupo Maersk",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 709,
+	"Grupo" : "Grupo DP World Angola",
+	"ModoContratoId" : 4,
+	"ModoContrato" : "Software como Serviços Saas",
+	"ModoContratoSigla" : "SAAS"
+},
+{
+	"ContratoId" : 31,
+	"Grupo" : "Grupo Casa do Lojista",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 270,
+	"Grupo" : "Grupo Mitsubishi",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 609,
+	"Grupo" : "Grupo Pamcary",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 649,
+	"Grupo" : "Grupo TUV SUD (BSP)",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 531,
+	"Grupo" : "Grupo Futura Tintas",
+	"ModoContratoId" : 5,
+	"ModoContrato" : "Software como Serviços Cloud",
+	"ModoContratoSigla" : "CLOUD"
+},
+{
+	"ContratoId" : 203,
+	"Grupo" : "Grupo General Mills (Yoki)",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 443,
+	"Grupo" : "Grupo Sanepav",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 725,
+	"Grupo" : "Grupo Banco Mercedes-Benz",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 506,
+	"Grupo" : "Grupo Sumup",
+	"ModoContratoId" : 3,
+	"ModoContrato" : "Terceirização com mão de Obra",
+	"ModoContratoSigla" : "BPO"
+},
+{
+	"ContratoId" : 630,
+	"Grupo" : "Grupo SKF Internacional",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 246,
+	"Grupo" : "Grupo Maggion",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 273,
+	"Grupo" : "Grupo M Boi Mirim",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 572,
+	"Grupo" : "Grupo Copersucar",
+	"ModoContratoId" : 4,
+	"ModoContrato" : "Software como Serviços Saas",
+	"ModoContratoSigla" : "SAAS"
+},
+{
+	"ContratoId" : 737,
+	"Grupo" : "Grupo Sansuy(CLOUD)",
+	"ModoContratoId" : 5,
+	"ModoContrato" : "Software como Serviços Cloud",
+	"ModoContratoSigla" : "CLOUD"
+},
+{
+	"ContratoId" : 469,
+	"Grupo" : "Grupo NTT (Cliente)",
+	"ModoContratoId" : 3,
+	"ModoContrato" : "Terceirização com mão de Obra",
+	"ModoContratoSigla" : "BPO"
+},
+{
+	"ContratoId" : 635,
+	"Grupo" : "Grupo Ericsson Internacional",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 458,
+	"Grupo" : "Grupo Cloudpay Solutions INC",
+	"ModoContratoId" : 4,
+	"ModoContrato" : "Software como Serviços Saas",
+	"ModoContratoSigla" : "SAAS"
+},
+{
+	"ContratoId" : 552,
+	"Grupo" : "Grupo Zambon",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 648,
+	"Grupo" : "Grupo Maxlog",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 573,
+	"Grupo" : "Grupo Cielo",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 577,
+	"Grupo" : "Grupo Intech",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 579,
+	"Grupo" : "Grupo Cateno",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 624,
+	"Grupo" : "Grupo Band (SAAS)",
+	"ModoContratoId" : 4,
+	"ModoContrato" : "Software como Serviços Saas",
+	"ModoContratoSigla" : "SAAS"
+},
+{
+	"ContratoId" : 645,
+	"Grupo" : "Grupo Tec Toy",
+	"ModoContratoId" : 5,
+	"ModoContrato" : "Software como Serviços Cloud",
+	"ModoContratoSigla" : "CLOUD"
+},
+{
+	"ContratoId" : 592,
+	"Grupo" : "Grupo TGS Global",
+	"ModoContratoId" : 4,
+	"ModoContrato" : "Software como Serviços Saas",
+	"ModoContratoSigla" : "SAAS"
+},
+{
+	"ContratoId" : 567,
+	"Grupo" : "Grupo Banco Fibra",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 683,
+	"Grupo" : "Grupo Callidus",
+	"ModoContratoId" : 5,
+	"ModoContrato" : "Software como Serviços Cloud",
+	"ModoContratoSigla" : "CLOUD"
+},
+{
+	"ContratoId" : 382,
+	"Grupo" : "Grupo Sephora (Dotcom)",
+	"ModoContratoId" : 3,
+	"ModoContrato" : "Terceirização com mão de Obra",
+	"ModoContratoSigla" : "BPO"
+},
+{
+	"ContratoId" : 489,
+	"Grupo" : "Grupo Leandro Aparecido (Darc",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 696,
+	"Grupo" : "Grupo Electrolux",
+	"ModoContratoId" : 3,
+	"ModoContrato" : "Terceirização com mão de Obra",
+	"ModoContratoSigla" : "BPO"
+},
+{
+	"ContratoId" : 90,
+	"Grupo" : "Grupo Maxionwhells (Fumagalli)",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 74,
+	"Grupo" : "Grupo Metodista",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 562,
+	"Grupo" : "Grupo Visão Prev",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 407,
+	"Grupo" : "Grupo Ericsson",
+	"ModoContratoId" : 3,
+	"ModoContrato" : "Terceirização com mão de Obra",
+	"ModoContratoSigla" : "BPO"
+},
+{
+	"ContratoId" : 556,
+	"Grupo" : "Grupo Sepaco",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 382,
+	"Grupo" : "Grupo Sephora (Dotcom)",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 400,
+	"Grupo" : "Grupo Sup Ourinhos",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 607,
+	"Grupo" : "Grupo APCD (Cloud)",
+	"ModoContratoId" : 5,
+	"ModoContrato" : "Software como Serviços Cloud",
+	"ModoContratoSigla" : "CLOUD"
+},
+{
+	"ContratoId" : 137,
+	"Grupo" : "Grupo Supermercados Irmãos Lop",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 584,
+	"Grupo" : "Grupo Promedon",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 2,
+	"Grupo" : "Grupo Açotubo",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 513,
+	"Grupo" : "Grupo NTT (Parceiro)",
+	"ModoContratoId" : 4,
+	"ModoContrato" : "Software como Serviços Saas",
+	"ModoContratoSigla" : "SAAS"
+},
+{
+	"ContratoId" : 210,
+	"Grupo" : "Grupo GR SA",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 388,
+	"Grupo" : "Grupo Embraer",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 471,
+	"Grupo" : "Grupo Brasif",
+	"ModoContratoId" : 4,
+	"ModoContrato" : "Software como Serviços Saas",
+	"ModoContratoSigla" : "SAAS"
+},
+{
+	"ContratoId" : 734,
+	"Grupo" : "Grupo Cultura Inglesa",
+	"ModoContratoId" : 4,
+	"ModoContrato" : "Software como Serviços Saas",
+	"ModoContratoSigla" : "SAAS"
+},
+{
+	"ContratoId" : 470,
+	"Grupo" : "Grupo Axis",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 516,
+	"Grupo" : "Grupo WestRock",
+	"ModoContratoId" : 4,
+	"ModoContrato" : "Software como Serviços Saas",
+	"ModoContratoSigla" : "SAAS"
+},
+{
+	"ContratoId" : 490,
+	"Grupo" : "Grupo Hospital Vale do Paraíba",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 338,
+	"Grupo" : "Grupo Skill",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 633,
+	"Grupo" : "Grupo BDO Internacional",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 682,
+	"Grupo" : "Grupo Sencinet",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 707,
+	"Grupo" : "Grupo Mater",
+	"ModoContratoId" : 4,
+	"ModoContrato" : "Software como Serviços Saas",
+	"ModoContratoSigla" : "SAAS"
+},
+{
+	"ContratoId" : 582,
+	"Grupo" : "Grupo Petrocoque (BSP)",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 613,
+	"Grupo" : "Grupo Unimed do Brasil",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 614,
+	"Grupo" : "Grupo APAS",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 525,
+	"Grupo" : "Grupo Aethra",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 559,
+	"Grupo" : "Grupo Sompo",
+	"ModoContratoId" : 3,
+	"ModoContrato" : "Terceirização com mão de Obra",
+	"ModoContratoSigla" : "BPO"
+},
+{
+	"ContratoId" : 714,
+	"Grupo" : "Grupo Colgate (SAAS)",
+	"ModoContratoId" : 4,
+	"ModoContrato" : "Software como Serviços Saas",
+	"ModoContratoSigla" : "SAAS"
+},
+{
+	"ContratoId" : 383,
+	"Grupo" : "Grupo Plural",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 34,
+	"Grupo" : "Grupo CNAGA",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 485,
+	"Grupo" : "Grupo Bergamais",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 509,
+	"Grupo" : "Grupo Coloplast",
+	"ModoContratoId" : 3,
+	"ModoContrato" : "Terceirização com mão de Obra",
+	"ModoContratoSigla" : "BPO"
+},
+{
+	"ContratoId" : 502,
+	"Grupo" : "Grupo Torrent",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 20,
+	"Grupo" : "Grupo Neumayer",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 394,
+	"Grupo" : "Grupo Icaro",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 650,
+	"Grupo" : "Grupo Hubert (SAAS)",
+	"ModoContratoId" : 4,
+	"ModoContrato" : "Software como Serviços Saas",
+	"ModoContratoSigla" : "SAAS"
+},
+{
+	"ContratoId" : 50,
+	"Grupo" : "Grupo Raia Drogasil",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 606,
+	"Grupo" : "Grupo Center Norte",
+	"ModoContratoId" : 5,
+	"ModoContrato" : "Software como Serviços Cloud",
+	"ModoContratoSigla" : "CLOUD"
+},
+{
+	"ContratoId" : 724,
+	"Grupo" : "Grupo Sylvamo",
+	"ModoContratoId" : 4,
+	"ModoContrato" : "Software como Serviços Saas",
+	"ModoContratoSigla" : "SAAS"
+},
+{
+	"ContratoId" : 576,
+	"Grupo" : "Grupo AWP Service",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 410,
+	"Grupo" : "Grupo Mac Incorporadora",
+	"ModoContratoId" : 4,
+	"ModoContrato" : "Software como Serviços Saas",
+	"ModoContratoSigla" : "SAAS"
+},
+{
+	"ContratoId" : 497,
+	"Grupo" : "Grupo Anixter",
+	"ModoContratoId" : 4,
+	"ModoContrato" : "Software como Serviços Saas",
+	"ModoContratoSigla" : "SAAS"
+},
+{
+	"ContratoId" : 492,
+	"Grupo" : "Grupo Rossi",
+	"ModoContratoId" : 4,
+	"ModoContrato" : "Software como Serviços Saas",
+	"ModoContratoSigla" : "SAAS"
+},
+{
+	"ContratoId" : 311,
+	"Grupo" : "Grupo Gafor",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 80,
+	"Grupo" : "Grupo Colombo",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 662,
+	"Grupo" : "Grupo Loja Integrada",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 587,
+	"Grupo" : "Grupo ZIM",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 186,
+	"Grupo" : "Grupo Softtek",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 449,
+	"Grupo" : "Grupo Amway",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 253,
+	"Grupo" : "Grupo Faurecia",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 658,
+	"Grupo" : "Grupo Bimbo (SAAS)",
+	"ModoContratoId" : 4,
+	"ModoContrato" : "Software como Serviços Saas",
+	"ModoContratoSigla" : "SAAS"
+},
+{
+	"ContratoId" : 631,
+	"Grupo" : "Grupo Liba Internacional",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 484,
+	"Grupo" : "Grupo Motus Serviços",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 583,
+	"Grupo" : "Grupo Sifra",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 505,
+	"Grupo" : "Grupo Kohler",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 681,
+	"Grupo" : "Grupo Loggi",
+	"ModoContratoId" : 5,
+	"ModoContrato" : "Software como Serviços Cloud",
+	"ModoContratoSigla" : "CLOUD"
+},
+{
+	"ContratoId" : 669,
+	"Grupo" : "Grupo MSC",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 519,
+	"Grupo" : "Grupo João Fortes Engenharia S",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 646,
+	"Grupo" : "Grupo Owens",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 521,
+	"Grupo" : "Grupo Cengage",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 503,
+	"Grupo" : "Grupo ST Marche (Hortus)",
+	"ModoContratoId" : 4,
+	"ModoContrato" : "Software como Serviços Saas",
+	"ModoContratoSigla" : "SAAS"
+},
+{
+	"ContratoId" : 651,
+	"Grupo" : "Grupo Zup",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 15,
+	"Grupo" : "Grupo Bela Vista",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 686,
+	"Grupo" : "Grupo Mitre Realty (LU)",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 701,
+	"Grupo" : "Grupo Jervois Brasil",
+	"ModoContratoId" : 5,
+	"ModoContrato" : "Software como Serviços Cloud",
+	"ModoContratoSigla" : "CLOUD"
+},
+{
+	"ContratoId" : 720,
+	"Grupo" : "STT Panama",
+	"ModoContratoId" : 4,
+	"ModoContrato" : "Software como Serviços Saas",
+	"ModoContratoSigla" : "SAAS"
+},
+{
+	"ContratoId" : 466,
+	"Grupo" : "Grupo RI Happy",
+	"ModoContratoId" : 4,
+	"ModoContrato" : "Software como Serviços Saas",
+	"ModoContratoSigla" : "SAAS"
+},
+{
+	"ContratoId" : 644,
+	"Grupo" : "Grupo Certisign",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 290,
+	"Grupo" : "Grupo Jomarca",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 666,
+	"Grupo" : "Grupo Concessionária Linha Uni",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 467,
+	"Grupo" : "Grupo Amazon",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 566,
+	"Grupo" : "Grupo Kimberly Internacional",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 655,
+	"Grupo" : "Grupo Top Brands",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 113,
+	"Grupo" : "Grupo Resil",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 679,
+	"Grupo" : "Grupo Dupont (BSP)",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 697,
+	"Grupo" : "Grupo Serasa (BSP)",
+	"ModoContratoId" : 3,
+	"ModoContrato" : "Terceirização com mão de Obra",
+	"ModoContratoSigla" : "BPO"
+},
+{
+	"ContratoId" : 79,
+	"Grupo" : "Grupo Le Postiche",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 629,
+	"Grupo" : "Grupo TGS Sarrio Asociados Int",
+	"ModoContratoId" : 4,
+	"ModoContrato" : "Software como Serviços Saas",
+	"ModoContratoSigla" : "SAAS"
+},
+{
+	"ContratoId" : 638,
+	"Grupo" : "Grupo Votorantim",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 571,
+	"Grupo" : "Grupo Recovery",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 403,
+	"Grupo" : "Grupo DSV (Panalpina)",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 719,
+	"Grupo" : "Grupo Iron House",
+	"ModoContratoId" : 5,
+	"ModoContrato" : "Software como Serviços Cloud",
+	"ModoContratoSigla" : "CLOUD"
+},
+{
+	"ContratoId" : 554,
+	"Grupo" : "Grupo Thermo Fisher",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 84,
+	"Grupo" : "Grupo Magazine Luiza",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 688,
+	"Grupo" : "Grupo Tecban",
+	"ModoContratoId" : 2,
+	"ModoContrato" : "Licença de Uso Assistida",
+	"ModoContratoSigla" : "LUA"
+},
+{
+	"ContratoId" : 706,
+	"Grupo" : "Grupo Opla",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 550,
+	"Grupo" : "Grupo Mecalor (BSP)",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 599,
+	"Grupo" : "Grupo Ascenty",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 663,
+	"Grupo" : "Grupo FMU",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 602,
+	"Grupo" : "Grupo Weleda",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 675,
+	"Grupo" : "Grupo Torra Torra (SAAS)",
+	"ModoContratoId" : 4,
+	"ModoContrato" : "Software como Serviços Saas",
+	"ModoContratoSigla" : "SAAS"
+},
+{
+	"ContratoId" : 713,
+	"Grupo" : "Grupo Excim(Focus-SAAS)",
+	"ModoContratoId" : 4,
+	"ModoContrato" : "Software como Serviços Saas",
+	"ModoContratoSigla" : "SAAS"
+},
+{
+	"ContratoId" : 632,
+	"Grupo" : "Grupo Tigre Internacional",
+	"ModoContratoId" : 4,
+	"ModoContrato" : "Software como Serviços Saas",
+	"ModoContratoSigla" : "SAAS"
+},
+{
+	"ContratoId" : 323,
+	"Grupo" : "Grupo Marjan",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 600,
+	"Grupo" : "Grupo Johnson Controls",
+	"ModoContratoId" : 3,
+	"ModoContrato" : "Terceirização com mão de Obra",
+	"ModoContratoSigla" : "BPO"
+},
+{
+	"ContratoId" : 480,
+	"Grupo" : "Grupo Ibope Inteligência",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 251,
+	"Grupo" : "Grupo Usina  Santo Antônio",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 442,
+	"Grupo" : "Grupo Confidence",
+	"ModoContratoId" : 4,
+	"ModoContrato" : "Software como Serviços Saas",
+	"ModoContratoSigla" : "SAAS"
+},
+{
+	"ContratoId" : 672,
+	"Grupo" : "Grupo Usina Termeletrica",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 699,
+	"Grupo" : "Grupo LG",
+	"ModoContratoId" : 4,
+	"ModoContrato" : "Software como Serviços Saas",
+	"ModoContratoSigla" : "SAAS"
+},
+{
+	"ContratoId" : 6,
+	"Grupo" : "Grupo Allianz",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 479,
+	"Grupo" : "Grupo Zara",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 351,
+	"Grupo" : "Grupo Penha",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 727,
+	"Grupo" : "Grupo Valverde (Parceiro)",
+	"ModoContratoId" : 5,
+	"ModoContrato" : "Software como Serviços Cloud",
+	"ModoContratoSigla" : "CLOUD"
+},
+{
+	"ContratoId" : 342,
+	"Grupo" : "Grupo Pan (Panamericano)",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 618,
+	"Grupo" : "Grupo União Química",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 667,
+	"Grupo" : "Grupo Stefanini (Parceiro)",
+	"ModoContratoId" : 5,
+	"ModoContrato" : "Software como Serviços Cloud",
+	"ModoContratoSigla" : "CLOUD"
+},
+{
+	"ContratoId" : 733,
+	"Grupo" : "Grupo Balluff",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 563,
+	"Grupo" : "Grupo Sociedade Bíblica",
+	"ModoContratoId" : 5,
+	"ModoContrato" : "Software como Serviços Cloud",
+	"ModoContratoSigla" : "CLOUD"
+},
+{
+	"ContratoId" : 702,
+	"Grupo" : "Grupo Phibro (SAAS)",
+	"ModoContratoId" : 4,
+	"ModoContrato" : "Software como Serviços Saas",
+	"ModoContratoSigla" : "SAAS"
+},
+{
+	"ContratoId" : 353,
+	"Grupo" : "Grupo Andorinha",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 559,
+	"Grupo" : "Grupo Sompo",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 213,
+	"Grupo" : "Grupo Yamaha",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 642,
+	"Grupo" : "Grupo Record",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 704,
+	"Grupo" : "Grupo Allcare",
+	"ModoContratoId" : 4,
+	"ModoContrato" : "Software como Serviços Saas",
+	"ModoContratoSigla" : "SAAS"
+},
+{
+	"ContratoId" : 321,
+	"Grupo" : "Grupo RH System",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 508,
+	"Grupo" : "Grupo Cirion (Level 3)",
+	"ModoContratoId" : 3,
+	"ModoContrato" : "Terceirização com mão de Obra",
+	"ModoContratoSigla" : "BPO"
+},
+{
+	"ContratoId" : 451,
+	"Grupo" : "Grupo Capemisa",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 235,
+	"Grupo" : "Grupo Odebrecht",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 359,
+	"Grupo" : "Grupo GFG (Dafiti)",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 641,
+	"Grupo" : "Grupo Lanxess",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 711,
+	"Grupo" : "Grupo Markets",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 498,
+	"Grupo" : "Grupo Programmer's",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 665,
+	"Grupo" : "Grupo SBT (Canal 4)",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 402,
+	"Grupo" : "Grupo Western",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 695,
+	"Grupo" : "Grupo Atlas Copco",
+	"ModoContratoId" : 4,
+	"ModoContrato" : "Software como Serviços Saas",
+	"ModoContratoSigla" : "SAAS"
+},
+{
+	"ContratoId" : 710,
+	"Grupo" : "Grupo Envalior Materiais (Lanx",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 98,
+	"Grupo" : "Grupo Vedacit",
+	"ModoContratoId" : 2,
+	"ModoContrato" : "Licença de Uso Assistida",
+	"ModoContratoSigla" : "LUA"
+},
+{
+	"ContratoId" : 735,
+	"Grupo" : "Grupo BWG People",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 27,
+	"Grupo" : "Grupo CBA",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 267,
+	"Grupo" : "Grupo Sinal",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 475,
+	"Grupo" : "Grupo Danone",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 591,
+	"Grupo" : "Grupo Serhos",
+	"ModoContratoId" : 4,
+	"ModoContrato" : "Software como Serviços Saas",
+	"ModoContratoSigla" : "SAAS"
+},
+{
+	"ContratoId" : 627,
+	"Grupo" : "Grupo Apetece",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 33,
+	"Grupo" : "Grupo CMR",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 578,
+	"Grupo" : "Grupo Nagumo",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 307,
+	"Grupo" : "Grupo Santa Cruz",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 287,
+	"Grupo" : "Grupo Avon",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 242,
+	"Grupo" : "Grupo EMS",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 588,
+	"Grupo" : "Grupo Cheng",
+	"ModoContratoId" : 4,
+	"ModoContrato" : "Software como Serviços Saas",
+	"ModoContratoSigla" : "SAAS"
+},
+{
+	"ContratoId" : 46,
+	"Grupo" : "Grupo Distillerie",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 634,
+	"Grupo" : "Grupo DIDI Internacional",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 660,
+	"Grupo" : "Grupo JCDecaux",
+	"ModoContratoId" : 5,
+	"ModoContrato" : "Software como Serviços Cloud",
+	"ModoContratoSigla" : "CLOUD"
+},
+{
+	"ContratoId" : 499,
+	"Grupo" : "Grupo Maxion",
+	"ModoContratoId" : 5,
+	"ModoContrato" : "Software como Serviços Cloud",
+	"ModoContratoSigla" : "CLOUD"
+},
+{
+	"ContratoId" : 685,
+	"Grupo" : "Grupo Sonoco",
+	"ModoContratoId" : 5,
+	"ModoContrato" : "Software como Serviços Cloud",
+	"ModoContratoSigla" : "CLOUD"
+},
+{
+	"ContratoId" : 158,
+	"Grupo" : "Grupo Alcoa",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 467,
+	"Grupo" : "Grupo Amazon",
+	"ModoContratoId" : 3,
+	"ModoContrato" : "Terceirização com mão de Obra",
+	"ModoContratoSigla" : "BPO"
+},
+{
+	"ContratoId" : 140,
+	"Grupo" : "Grupo Joyson Safety",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 105,
+	"Grupo" : "Grupo Arlanxeo",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 595,
+	"Grupo" : "Grupo Quickly Travel  (Cloud)",
+	"ModoContratoId" : 5,
+	"ModoContrato" : "Software como Serviços Cloud",
+	"ModoContratoSigla" : "CLOUD"
+},
+{
+	"ContratoId" : 700,
+	"Grupo" : "Grupo Carbon Serviços",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 670,
+	"Grupo" : "Grupo Nortis",
+	"ModoContratoId" : 5,
+	"ModoContrato" : "Software como Serviços Cloud",
+	"ModoContratoSigla" : "CLOUD"
+},
+{
+	"ContratoId" : 510,
+	"Grupo" : "Grupo CMOC (BPO)",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 373,
+	"Grupo" : "Grupo Cegelec (Vinci)",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 515,
+	"Grupo" : "Grupo Beneficiência SP",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 433,
+	"Grupo" : "Grupo Embraport",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 440,
+	"Grupo" : "Grupo FIA",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 640,
+	"Grupo" : "Grupo Roca (Cloud)",
+	"ModoContratoId" : 5,
+	"ModoContrato" : "Software como Serviços Cloud",
+	"ModoContratoSigla" : "CLOUD"
+},
+{
+	"ContratoId" : 673,
+	"Grupo" : "Grupo Roadcard",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 703,
+	"Grupo" : "Grupo Clear Sale (SAAS)",
+	"ModoContratoId" : 4,
+	"ModoContrato" : "Software como Serviços Saas",
+	"ModoContratoSigla" : "SAAS"
+},
+{
+	"ContratoId" : 677,
+	"Grupo" : "Grupo Guide",
+	"ModoContratoId" : 3,
+	"ModoContrato" : "Terceirização com mão de Obra",
+	"ModoContratoSigla" : "BPO"
+},
+{
+	"ContratoId" : 694,
+	"Grupo" : "Grupo Qualiconsig",
+	"ModoContratoId" : 4,
+	"ModoContrato" : "Software como Serviços Saas",
+	"ModoContratoSigla" : "SAAS"
+},
+{
+	"ContratoId" : 151,
+	"Grupo" : "Grupo São Judas",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 664,
+	"Grupo" : "Grupo PS Folhas (Cloud)",
+	"ModoContratoId" : 5,
+	"ModoContrato" : "Software como Serviços Cloud",
+	"ModoContratoSigla" : "CLOUD"
+},
+{
+	"ContratoId" : 671,
+	"Grupo" : "Grupo TGroup",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 594,
+	"Grupo" : "Grupo Vyttra",
+	"ModoContratoId" : 6,
+	"ModoContrato" : "BSP - Terceirização sem Mão de Obra",
+	"ModoContratoSigla" : "BSP"
+},
+{
+	"ContratoId" : 345,
+	"Grupo" : "Grupo Azul Linhas Aéreas",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+},
+{
+	"ContratoId" : 691,
+	"Grupo" : "Grupo Celer",
+	"ModoContratoId" : 5,
+	"ModoContrato" : "Software como Serviços Cloud",
+	"ModoContratoSigla" : "CLOUD"
+},
+{
+	"ContratoId" : 95,
+	"Grupo" : "Grupo Niplan",
+	"ModoContratoId" : 1,
+	"ModoContrato" : "Licença de Uso",
+	"ModoContratoSigla" : "LU"
+}
+]
